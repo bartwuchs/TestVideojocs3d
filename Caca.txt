@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Me gusta el cyberpunk y la diarrea :D
+=======
+Me gusta el cyberpunk :D
+Vale tio
+>>>>>>> 4c9e5cb1fe04581a94f8f50661d9f105dfb3b30e
